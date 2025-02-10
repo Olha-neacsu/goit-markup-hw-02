@@ -36,9 +36,13 @@ body {
     color: #2e2f42;
 }
 
-.header-menu-list .header-menu-item:hower
-.header-menu-list .header-menu-item:focus {
+.header-menu-link:hower
+.header-menu-link:focus {
     color: #404bbf;
+}
+
+.header-contact {
+    font-style: normal;
 }
 
 .header-contact-item {
@@ -129,6 +133,7 @@ background-color: #404BBF;
         letter-spacing: 0.02em;
         color: #2e2f42;
         text-transform: capitalize;
+        text-align: center;
 }
 
 .team-subtitle {
@@ -204,7 +209,7 @@ background-color: #FFFFFF;
         text-decoration: none;
 }
 
-.logo-contrast-2 {
+.footer-logo-contrast {
     color: #f4f4fd;
 }
 
