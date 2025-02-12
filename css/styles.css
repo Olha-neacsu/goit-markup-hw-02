@@ -36,7 +36,7 @@ body {
     color: #2e2f42;
 }
 
-.header-menu-link:hower
+.header-menu-link:hover,
 .header-menu-link:focus {
     color: #404bbf;
 }
@@ -60,9 +60,9 @@ body {
     color:#434455;
 }
 
-.header-contact-link:hover
+.header-contact-link:hover,
 .header-contact-link:focus {
-    color: #404bbf;
+color: #404bbf;
 }
 
 /* hero */
